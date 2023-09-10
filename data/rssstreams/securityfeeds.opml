@@ -1,0 +1,808 @@
+<?xml version="1.0" ?>
+<opml version="1.0">
+	
+
+	<head>
+		
+
+		<title>RSS Feed Export</title>
+		
+
+	</head>
+	
+
+	<body>
+		
+
+		<outline text="Companies" ttrssSortOrder="2">
+			
+
+			<outline htmlUrl="https://www.crowdstrike.com/blog" text="CrowdStrike" ttrssPurgeInterval="0" ttrssSortOrder="2" ttrssUpdateInterval="0" type="rss" xmlUrl="https://www.crowdstrike.com/blog/feed"/>
+			
+
+			<outline htmlUrl="https://www.microsoft.com/security/blog" text="Microsoft Security" ttrssPurgeInterval="0" ttrssSortOrder="3" ttrssUpdateInterval="0" type="rss" xmlUrl="https://cloudblogs.microsoft.com/microsoftsecure/feed/"/>
+			
+
+			<outline htmlUrl="https://mosaicsecurity.com" text="Mosaic Security Research" ttrssPurgeInterval="0" ttrssSortOrder="4" ttrssUpdateInterval="0" type="rss" xmlUrl="http://mosaicsecurity.com/feed/"/>
+			
+
+			<outline htmlUrl="https://blog.mozilla.org/security" text="Mozilla Security Blog" ttrssPurgeInterval="0" ttrssSortOrder="5" ttrssUpdateInterval="0" type="rss" xmlUrl="https://blog.mozilla.org/security/feed/"/>
+			
+
+			<outline htmlUrl="https://www.trustwave.com/en-us/" text="SpiderLabs Blog from Trustwave" ttrssPurgeInterval="0" ttrssSortOrder="7" ttrssUpdateInterval="0" type="rss" xmlUrl="https://www.trustwave.com/en-us/rss/spiderlabs-blog/"/>
+			
+
+			<outline htmlUrl="https://www.trustedsec.com" text="TrustedSec" ttrssPurgeInterval="0" ttrssSortOrder="8" ttrssUpdateInterval="0" type="rss" xmlUrl="https://www.trustedsec.com/feed/"/>
+			
+
+		</outline>
+		
+
+		<outline text="Companies research" ttrssSortOrder="3">
+			
+
+			<outline htmlUrl="http://security.googleblog.com/" text="Google Online Security Blog" ttrssPurgeInterval="0" ttrssSortOrder="2" ttrssUpdateInterval="0" type="rss" xmlUrl="https://feeds.feedburner.com/GoogleOnlineSecurityBlog"/>
+			
+
+			<outline htmlUrl="https://www.shielder.it/blog/" text="Shielder" ttrssPurgeInterval="0" ttrssSortOrder="3" ttrssUpdateInterval="0" type="rss" xmlUrl="https://www.shielder.it/blog/index.xml"/>
+			
+
+		</outline>
+		
+
+		<outline text="CyberIntelligence" ttrssSortOrder="5">
+			
+
+			<outline htmlUrl="https://www.cert.ssi.gouv.fr/alerte/" text="ANSSI" type="rss" xmlUrl="https://www.cert.ssi.gouv.fr/alerte/feed/"/>
+			
+
+			<outline htmlUrl="https://cyberstrategies.wordpress.com" text="Cyber Strategies for a World at War" ttrssPurgeInterval="0" ttrssSortOrder="1" ttrssUpdateInterval="0" type="rss" xmlUrl="http://cyberstrategies.wordpress.com/feed/"/>
+			
+
+			<outline htmlUrl="https://krypt3ia.wordpress.com" text="Krypt3ia" ttrssPurgeInterval="0" ttrssSortOrder="3" ttrssUpdateInterval="0" type="rss" xmlUrl="http://krypt3ia.wordpress.com/feed/"/>
+			
+
+			<outline htmlUrl="https://www.bellingcat.com" text="bellingcat" ttrssPurgeInterval="0" ttrssSortOrder="4" ttrssUpdateInterval="0" type="rss" xmlUrl="https://bellingcat.com/feed/"/>
+			
+
+		</outline>
+		
+
+		<outline text="Forensics" ttrssSortOrder="6">
+			
+
+			<outline htmlUrl="https://www.hecfblog.com/" text="Hacking Exposed Computer Forensics Blog" ttrssPurgeInterval="0" ttrssSortOrder="1" ttrssUpdateInterval="0" type="rss" xmlUrl="http://www.hecfblog.com/feeds/posts/default"/>
+			
+
+			<outline htmlUrl="http://www.netresec.com/?page=Blog" text="NETRESEC Network Security Blog" ttrssPurgeInterval="0" ttrssSortOrder="2" ttrssUpdateInterval="0" type="rss" xmlUrl="http://www.netresec.com/rss.ashx"/>
+			
+
+			<outline htmlUrl="https://pcsxcetrasupport3.wordpress.com" text="PC's Xcetra Support" ttrssPurgeInterval="0" ttrssSortOrder="3" ttrssUpdateInterval="0" type="rss" xmlUrl="http://pcsxcetrasupport3.wordpress.com/feed/"/>
+			
+
+		</outline>
+		
+
+		<outline text="Italiano" ttrssSortOrder="7">
+			
+
+			<outline htmlUrl="https://www.andreadraghetti.it" text="Andrea Draghetti" ttrssPurgeInterval="0" ttrssSortOrder="1" ttrssUpdateInterval="0" type="rss" xmlUrl="http://feeds.feedburner.com/OverSecurity"/>
+			
+
+			<outline htmlUrl="https://dicorinto.it" text="Arturo Di Corinto" ttrssPurgeInterval="0" ttrssSortOrder="2" ttrssUpdateInterval="0" type="rss" xmlUrl="http://www.dicorinto.it/feed"/>
+			
+
+			<outline htmlUrl="https://autistici.org/underscore/" text="Autistici" ttrssPurgeInterval="0" ttrssSortOrder="3" ttrssUpdateInterval="0" type="rss" xmlUrl="https://autistici.org/underscore/rss.xml"/>
+			
+
+			<outline htmlUrl="https://codiceinsicuro.it/" text="Codice Insicuro, blog di Cyber Security, sviluppo sicuro, code review e altro." ttrssPurgeInterval="0" ttrssSortOrder="4" ttrssUpdateInterval="-1" type="rss" xmlUrl="https://codiceinsicuro.it/feed.xml"/>
+			
+
+			<outline htmlUrl="https://cyberdivision.net" text="Cyber Division" ttrssPurgeInterval="0" ttrssSortOrder="5" ttrssUpdateInterval="0" type="rss" xmlUrl="https://cyberdivision.net/feed/"/>
+			
+
+			<outline htmlUrl="https://www.cyberdifesa.it" text="CyberDifesa.it" ttrssPurgeInterval="0" ttrssSortOrder="6" ttrssUpdateInterval="0" type="rss" xmlUrl="http://www.cyberdifesa.it/feed/"/>
+			
+
+			<outline htmlUrl="https://www.d3lab.net" text="D3Lab" ttrssPurgeInterval="0" ttrssSortOrder="7" ttrssUpdateInterval="0" type="rss" xmlUrl="https://www.d3lab.net/feed/"/>
+			
+
+			<outline htmlUrl="http://darkwhite666.blogspot.com/" text="Dark Space Blogspot" ttrssPurgeInterval="0" ttrssSortOrder="8" ttrssUpdateInterval="0" type="rss" xmlUrl="http://darkwhite666.blogspot.com/feeds/posts/default"/>
+			
+
+			<outline htmlUrl="https://www.fabionatalucci.it" text="Fabio Natalucci Post" ttrssPurgeInterval="0" ttrssSortOrder="9" ttrssUpdateInterval="0" type="rss" xmlUrl="http://feeds.feedburner.com/FabioNatalucciPost"/>
+			
+
+			<outline htmlUrl="https://hacktips.it" text="HackTips" ttrssPurgeInterval="0" ttrssSortOrder="10" ttrssUpdateInterval="0" type="rss" xmlUrl="http://hacktips.it/feed/"/>
+			
+
+			<outline htmlUrl="https://www.ictsecuritymagazine.com" text="ICT Security Magazine" ttrssPurgeInterval="0" ttrssSortOrder="11" ttrssUpdateInterval="0" type="rss" xmlUrl="http://www.ictsecuritymagazine.com/feed/"/>
+			
+
+			<outline htmlUrl="http://blog.cesaregallotti.it/" text="IT Service Management News" ttrssPurgeInterval="0" ttrssSortOrder="12" ttrssUpdateInterval="0" type="rss" xmlUrl="http://blog.cesaregallotti.it/feeds/posts/default"/>
+			
+
+			<outline htmlUrl="http://attivissimo.blogspot.com/" text="Il Disinformatico" ttrssPurgeInterval="0" ttrssSortOrder="13" ttrssUpdateInterval="0" type="rss" xmlUrl="https://feeds.feedburner.com/Disinformatico?format=xml"/>
+			
+
+			<outline htmlUrl="https://mgpf.it" text="LastKnight.com Feed" ttrssPurgeInterval="0" ttrssSortOrder="14" ttrssUpdateInterval="0" type="rss" xmlUrl="http://feeds.feedburner.com/LastknightDotCom"/>
+			
+
+			<outline htmlUrl="https://luca-mercatanti.com" text="Luca Mercatanti" ttrssPurgeInterval="0" ttrssSortOrder="15" ttrssUpdateInterval="0" type="rss" xmlUrl="http://feeds.feedburner.com/blogmercatanti"/>
+			
+
+			<outline htmlUrl="https://panopticonescape.wordpress.com" text="PANOPTICON ESCAPE" ttrssPurgeInterval="0" ttrssSortOrder="16" ttrssUpdateInterval="0" type="rss" xmlUrl="https://panopticonescape.wordpress.com/feed/"/>
+			
+
+			<outline htmlUrl="https://www.securityinfo.it" text="Securityinfo.it" ttrssPurgeInterval="0" ttrssSortOrder="17" ttrssUpdateInterval="-1" type="rss" xmlUrl="https://www.securityinfo.it/feed/"/>
+			
+
+			<outline htmlUrl="http://silendo.org" text="Silendo" ttrssPurgeInterval="0" ttrssSortOrder="18" ttrssUpdateInterval="0" type="rss" xmlUrl="http://silendo.org/feed/"/>
+			
+
+			<outline htmlUrl="http://www.tgsoft.it/" text="TG Soft Software House - News" ttrssPurgeInterval="0" ttrssSortOrder="19" ttrssUpdateInterval="0" type="rss" xmlUrl="http://www.tgsoft.it/feed/feed.asp"/>
+			
+
+			<outline htmlUrl="https://www.ts-way.com" text="TS-WAY" ttrssPurgeInterval="0" ttrssSortOrder="20" ttrssUpdateInterval="0" type="rss" xmlUrl="https://www.ts-way.com/it/feed/"/>
+			
+
+			<outline htmlUrl="https://trintragulablog.wordpress.com" text="Trin Tragula 0x2A" ttrssPurgeInterval="0" ttrssSortOrder="21" ttrssUpdateInterval="0" type="rss" xmlUrl="https://trintragulablog.wordpress.com/feed/"/>
+			
+
+			<outline htmlUrl="http://www.websec.it" text="WebSecurity IT" ttrssPurgeInterval="0" ttrssSortOrder="22" ttrssUpdateInterval="0" type="rss" xmlUrl="http://feeds.feedburner.com/capn3m0?format=xml"/>
+			
+
+			<outline htmlUrl="https://cavallette.noblogs.org" text="cavallette" ttrssPurgeInterval="0" ttrssSortOrder="24" ttrssUpdateInterval="0" type="rss" xmlUrl="http://cavallette.noblogs.org/feed"/>
+			
+
+			<outline htmlUrl="http://www.dirittodellinformatica.it" text="dirittodellinformatica.it - Rivista telematica su diritto e tecnologia" ttrssPurgeInterval="0" ttrssSortOrder="25" ttrssUpdateInterval="0" type="rss" xmlUrl="http://www.dirittodellinformatica.it/feed"/>
+			
+
+		</outline>
+		
+
+		<outline text="Malware" ttrssSortOrder="8">
+			
+
+			<outline htmlUrl="https://blog.0x3a.com/" text="0x3a - Security Specialist and programmer by trade" ttrssPurgeInterval="0" ttrssSortOrder="1" ttrssUpdateInterval="0" type="rss" xmlUrl="https://blog.0x3a.com/rss#_=_"/>
+			
+
+			<outline htmlUrl="https://cybersecurity.att.com/blogs/security-essentials" text="AlienVault Labs Blog" ttrssPurgeInterval="0" ttrssSortOrder="2" ttrssUpdateInterval="0" type="rss" xmlUrl="https://cybersecurity.att.com/site/blog-labs-rss-short"/>
+			
+
+			<outline htmlUrl="https://bartblaze.blogspot.com/" text="Blaze's Security Blog" ttrssPurgeInterval="0" ttrssSortOrder="3" ttrssUpdateInterval="0" type="rss" xmlUrl="https://bartblaze.blogspot.com/feeds/posts/default"/>
+			
+
+			<outline htmlUrl="https://www.exposedbotnets.com" text="ExposedBotnets" ttrssPurgeInterval="0" ttrssSortOrder="4" ttrssUpdateInterval="0" type="rss" xmlUrl="https://www.exposedbotnets.com/feed"/>
+			
+
+			<outline htmlUrl="https://furoner.wordpress.com" text="Furoner.CAT" ttrssPurgeInterval="0" ttrssSortOrder="5" ttrssUpdateInterval="0" type="rss" xmlUrl="https://furoner.wordpress.com/feed/"/>
+			
+
+			<outline htmlUrl="http://malwageddon.blogspot.com/" text="Malware Analysis: The Final Frontier" ttrssPurgeInterval="0" ttrssSortOrder="6" ttrssUpdateInterval="0" type="rss" xmlUrl="http://malwageddon.blogspot.com/feeds/posts/default"/>
+			
+
+			<outline htmlUrl="https://blog.malwaremustdie.org/" text="Malware Must Die!" ttrssPurgeInterval="0" ttrssSortOrder="7" ttrssUpdateInterval="0" type="rss" xmlUrl="http://blog.malwaremustdie.org/atom.xml"/>
+			
+
+			<outline htmlUrl="https://blog.malwarebytes.com" text="Malwarebytes Labs" ttrssPurgeInterval="0" ttrssSortOrder="9" ttrssUpdateInterval="0" type="rss" xmlUrl="http://blog.malwarebytes.org/feed/"/>
+			
+
+			<outline htmlUrl="https://www.stopbadware.org/blog" text="StopBadware blogs" ttrssPurgeInterval="0" ttrssSortOrder="10" ttrssUpdateInterval="0" type="rss" xmlUrl="http://feeds.feedburner.com/StopbadwareBlog"/>
+			
+
+			<outline htmlUrl="https://www.virusbulletin.com/" text="Virus Bulletin's blog" ttrssPurgeInterval="0" ttrssSortOrder="13" ttrssUpdateInterval="0" type="rss" xmlUrl="https://www.virusbulletin.com/rss"/>
+			
+
+			<outline htmlUrl="http://contagiodump.blogspot.com/" text="contagio" ttrssPurgeInterval="0" ttrssSortOrder="14" ttrssUpdateInterval="0" type="rss" xmlUrl="http://contagiodump.blogspot.com/feeds/posts/default"/>
+			
+
+		</outline>
+		
+
+		<outline text="Miscellaneous" ttrssSortOrder="9">
+			
+
+			<outline htmlUrl="https://blog.rootshell.be" text="/dev/random" ttrssPurgeInterval="0" ttrssSortOrder="2" ttrssUpdateInterval="0" type="rss" xmlUrl="https://blog.rootshell.be/feed/"/>
+			
+
+			<outline htmlUrl="https://0x00sec.org/top/monthly" text="0x00sec - The Home of the Hacker - Monthly top topics" ttrssPurgeInterval="0" ttrssSortOrder="3" ttrssUpdateInterval="0" type="rss" xmlUrl="https://0x00sec.org/top/monthly.rss"/>
+			
+
+			<outline htmlUrl="http://antukh.com/" text="0xAA - Random notes on security" ttrssPurgeInterval="0" ttrssSortOrder="5" ttrssUpdateInterval="0" type="rss" xmlUrl="http://antukh.com/atom.xml"/>
+			
+
+			<outline htmlUrl="https://blog.fox-it.com" text="Fox-IT International blog" ttrssPurgeInterval="0" ttrssSortOrder="6" ttrssUpdateInterval="0" type="rss" xmlUrl="http://blog.fox-it.com/feed/"/>
+			
+
+			<outline htmlUrl="https://www.doomedraven.com/" text="@D00m3dr4v3n" ttrssPurgeInterval="0" ttrssSortOrder="7" ttrssUpdateInterval="0" type="rss" xmlUrl="http://www.doomedraven.com/feeds/posts/default?alt=rss"/>
+			
+
+			<outline htmlUrl="https://blog.cryptographyengineering.com" text="A Few Thoughts on Cryptographic Engineering" ttrssPurgeInterval="0" ttrssSortOrder="8" ttrssUpdateInterval="0" type="rss" xmlUrl="http://blog.cryptographyengineering.com/feeds/posts/default"/>
+			
+
+			<outline htmlUrl="http://addxorrol.blogspot.com/" text="Add / Xor / Rol" ttrssPurgeInterval="0" ttrssSortOrder="9" ttrssUpdateInterval="0" type="rss" xmlUrl="http://addxorrol.blogspot.com/feeds/posts/default"/>
+			
+
+			<outline htmlUrl="https://manifestsecurity.com/" text="Aditya Agrawal" ttrssPurgeInterval="0" ttrssSortOrder="10" ttrssUpdateInterval="0" type="rss" xmlUrl="http://manifestsecurity.com/feed/"/>
+			
+
+			<outline htmlUrl="https://www.andrewhay.ca" text="Andrew Hay" ttrssPurgeInterval="0" ttrssSortOrder="11" ttrssUpdateInterval="0" type="rss" xmlUrl="http://feeds.feedburner.com/andrewhayca"/>
+			
+
+			<outline htmlUrl="https://astr0baby.wordpress.com" text="Astr0baby's not so random thoughts _____ rand() % 100;" ttrssPurgeInterval="0" ttrssSortOrder="12" ttrssUpdateInterval="0" type="rss" xmlUrl="https://astr0baby.wordpress.com/feed/"/>
+			
+
+			<outline htmlUrl="https://azeria-labs.com" text="Azeria Labs" ttrssPurgeInterval="0" ttrssSortOrder="13" ttrssUpdateInterval="0" type="rss" xmlUrl="https://azeria-labs.com/feed/"/>
+			
+
+			<outline htmlUrl="https://breakdev.org/" text="BREAKDEV" ttrssPurgeInterval="0" ttrssSortOrder="14" ttrssUpdateInterval="0" type="rss" xmlUrl="http://breakdev.org/rss/"/>
+			
+
+			<outline htmlUrl="https://www.blackhillsinfosec.com" text="Black Hills Information Security" ttrssPurgeInterval="0" ttrssSortOrder="15" ttrssUpdateInterval="0" type="rss" xmlUrl="https://www.blackhillsinfosec.com/feed/"/>
+			
+
+			<outline htmlUrl="https://blog.netspi.com" text="NetSPI Blog" ttrssPurgeInterval="0" ttrssSortOrder="18" ttrssUpdateInterval="-1" type="rss" xmlUrl="https://www.netspi.com/feed/"/>
+			
+
+			<outline htmlUrl="https://insights.sei.cmu.edu/cert/" text="CERT Blogs" ttrssPurgeInterval="0" ttrssSortOrder="19" ttrssUpdateInterval="0" type="rss" xmlUrl="https://insights.sei.cmu.edu/cert/rss.xml"/>
+			
+
+			<outline htmlUrl="http://infosecninja.blogspot.com/" text="Cybersecurity Blog" ttrssPurgeInterval="0" ttrssSortOrder="20" ttrssUpdateInterval="0" type="rss" xmlUrl="http://feeds.feedburner.com/ChintanGurjarsBlog"/>
+			
+
+			<outline htmlUrl="https://dwaterson.com" text="Dave Waterson on Security" ttrssPurgeInterval="0" ttrssSortOrder="22" ttrssUpdateInterval="0" type="rss" xmlUrl="http://dwaterson.com/feed/"/>
+			
+
+			<outline htmlUrl="http://www.securityforrealpeople.com/" text="David Longenecker" ttrssPurgeInterval="0" ttrssSortOrder="23" ttrssUpdateInterval="0" type="rss" xmlUrl="https://feeds.feedburner.com/DavidLongenecker"/>
+			
+
+			<outline htmlUrl="https://blog.didierstevens.com" text="Didier Stevens" ttrssPurgeInterval="0" ttrssSortOrder="24" ttrssUpdateInterval="0" type="rss" xmlUrl="http://blog.didierstevens.com/feed/"/>
+			
+
+			<outline htmlUrl="https://digi.ninja/rss.xml" text="DigiNinja" ttrssPurgeInterval="0" ttrssSortOrder="25" ttrssUpdateInterval="0" type="rss" xmlUrl="https://digi.ninja/rss.xml"/>
+			
+
+			<outline htmlUrl="http://blog.wh1t3rabbit.net/" text="Down the Security Rabbithole Blog - Supplemental" ttrssPurgeInterval="0" ttrssSortOrder="26" ttrssUpdateInterval="0" type="rss" xmlUrl="http://feeds.feedburner.com/FollowingTheWh1t3Rabbit"/>
+			
+
+			<outline htmlUrl="https://msrc-blog.microsoft.com" text="Security Research &amp; Defense" ttrssPurgeInterval="0" ttrssSortOrder="27" ttrssUpdateInterval="0" type="rss" xmlUrl="https://msrc-blog.microsoft.com/feed/"/>
+			
+
+			<outline htmlUrl="https://www.ericconrad.com/" text="Eric Conrad" ttrssPurgeInterval="0" ttrssSortOrder="28" ttrssUpdateInterval="0" type="rss" xmlUrl="http://www.ericconrad.com/feeds/posts/default"/>
+			
+
+			<outline htmlUrl="https://blog.erratasec.com/" text="Errata Security" ttrssPurgeInterval="0" ttrssSortOrder="29" ttrssUpdateInterval="0" type="rss" xmlUrl="http://erratasec.blogspot.com/feeds/posts/default"/>
+			
+
+			<outline htmlUrl="https://gynvael.coldwind.pl/" text="Gynvael Coldwind" ttrssPurgeInterval="0" ttrssSortOrder="30" ttrssUpdateInterval="0" type="rss" xmlUrl="http://feeds.feedburner.com/GynvaelColdwindEN"/>
+			
+
+			<outline htmlUrl="https://hakin9.org" text="Hakin9 – IT Security Magazine" ttrssPurgeInterval="0" ttrssSortOrder="31" ttrssUpdateInterval="0" type="rss" xmlUrl="http://hakin9.org/feed/"/>
+			
+
+			<outline htmlUrl="https://blog.hboeck.de/" text="Hanno's blog" ttrssPurgeInterval="0" ttrssSortOrder="32" ttrssUpdateInterval="0" type="rss" xmlUrl="http://www.hboeck.de/feeds/index.rss2"/>
+			
+
+			<outline htmlUrl="https://haveibeenpwned.com/" text="Have I Been Pwned latest breaches" ttrssPurgeInterval="0" ttrssSortOrder="33" ttrssUpdateInterval="0" type="rss" xmlUrl="http://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches"/>
+			
+
+			<outline htmlUrl="https://holisticinfosec.io/" text="HolisticInfoSec™" ttrssPurgeInterval="0" ttrssSortOrder="34" ttrssUpdateInterval="0" type="rss" xmlUrl="https://holisticinfosec.io/index.xml"/>
+			
+
+			<outline htmlUrl="https://icanthackit.wordpress.com" text="I CAN'T HACK IT …OR CAN I?" ttrssPurgeInterval="0" ttrssSortOrder="35" ttrssUpdateInterval="0" type="rss" xmlUrl="https://icanthackit.wordpress.com/feed/"/>
+			
+
+			<outline htmlUrl="http://www.imperialviolet.org/" text="ImperialViolet" ttrssPurgeInterval="0" ttrssSortOrder="36" ttrssUpdateInterval="0" type="rss" xmlUrl="http://www.imperialviolet.org/iv-rss.xml"/>
+			
+
+			<outline htmlUrl="https://blog.inspired-sec.com/" text="Inspired-Sec" ttrssPurgeInterval="0" ttrssSortOrder="38" ttrssUpdateInterval="0" type="rss" xmlUrl="http://blog.inspired-sec.com/feed.xml"/>
+			
+
+			<outline htmlUrl="https://intercepter-ng.blogspot.com/" text="Intercept the planet!" ttrssPurgeInterval="0" ttrssSortOrder="39" ttrssUpdateInterval="0" type="rss" xmlUrl="https://intercepter-ng.blogspot.com/feeds/posts/default?alt=rss"/>
+			
+
+			<outline htmlUrl="https://javvadmalik.com" text="Javvad Malik" ttrssPurgeInterval="0" ttrssSortOrder="40" ttrssUpdateInterval="0" type="rss" xmlUrl="http://feeds.feedburner.com/J4vv4d"/>
+			
+
+			<outline htmlUrl="https://jumpespjump.blogspot.com/" text="Jump ESP, jump!" ttrssPurgeInterval="0" ttrssSortOrder="42" ttrssUpdateInterval="0" type="rss" xmlUrl="http://jumpespjump.blogspot.com/feeds/posts/default"/>
+			
+
+			<outline htmlUrl="https://blog.0day.rocks?source=rss----6beb88197afc---4" text="Just another infosec blog type of thing - Medium" ttrssPurgeInterval="0" ttrssSortOrder="43" ttrssUpdateInterval="0" type="rss" xmlUrl="https://blog.0day.rocks/feed"/>
+			
+
+			<outline htmlUrl="http://www.kahusecurity.com/feed.xml" text="KahuSecurity" ttrssPurgeInterval="0" ttrssSortOrder="44" ttrssUpdateInterval="0" type="rss" xmlUrl="http://www.kahusecurity.com/feed.xml"/>
+			
+
+			<outline htmlUrl="http://www.kernelpicnic.net/" text="KernelPicnic" ttrssPurgeInterval="0" ttrssSortOrder="45" ttrssUpdateInterval="0" type="rss" xmlUrl="http://www.kernelpicnic.net/feed.xml"/>
+			
+
+			<outline htmlUrl="https://blog.kchung.co/" text="Kevin Chung" ttrssPurgeInterval="0" ttrssSortOrder="46" ttrssUpdateInterval="0" type="rss" xmlUrl="https://blog.kchung.co/rss/"/>
+			
+
+			<outline htmlUrl="https://labs.portcullis.co.uk" text="Labs PortCullis" ttrssPurgeInterval="0" ttrssSortOrder="47" ttrssUpdateInterval="0" type="rss" xmlUrl="https://labs.portcullis.co.uk/feed/"/>
+			
+
+			<outline htmlUrl="https://zeltser.com" text="Lenny Zeltser" ttrssPurgeInterval="0" ttrssSortOrder="48" ttrssUpdateInterval="0" type="rss" xmlUrl="https://zeltser.com/feed/"/>
+			
+
+			<outline htmlUrl="https://linux-audit.com" text="Linux Audit" ttrssPurgeInterval="0" ttrssSortOrder="49" ttrssUpdateInterval="0" type="rss" xmlUrl="http://linux-audit.com/feed/"/>
+			
+
+			<outline htmlUrl="https://www.martinvigo.com" text="Martin Vigo" ttrssPurgeInterval="0" ttrssSortOrder="50" ttrssUpdateInterval="0" type="rss" xmlUrl="http://www.martinvigo.com/feed/"/>
+			
+
+			<outline htmlUrl="https://maxkersten.nl" text="Max Kersten" ttrssPurgeInterval="0" ttrssSortOrder="51" ttrssUpdateInterval="0" type="rss" xmlUrl="https://maxkersten.nl/feed/"/>
+			
+
+			<outline htmlUrl="https://null-byte.wonderhowto.com/" text="Null Byte" ttrssPurgeInterval="0" ttrssSortOrder="53" ttrssUpdateInterval="0" type="rss" xmlUrl="http://null-byte.wonderhowto.com/rss.xml"/>
+			
+
+			<outline htmlUrl="https://pentestmag.com" text="Pentestmag" ttrssPurgeInterval="0" ttrssSortOrder="54" ttrssUpdateInterval="0" type="rss" xmlUrl="http://pentestmag.com/feed/"/>
+			
+
+			<outline htmlUrl="https://malicious.link/post/" text="Posts on malicious.link" ttrssPurgeInterval="0" ttrssSortOrder="55" ttrssUpdateInterval="0" type="rss" xmlUrl="https://malicious.link/post/index.xml"/>
+			
+
+			<outline htmlUrl="https://www.rtcsec.com/" text="Real-time communications security on Communication Breakdown - real-time communications security" ttrssPurgeInterval="0" ttrssSortOrder="56" ttrssUpdateInterval="0" type="rss" xmlUrl="https://www.rtcsec.com/index.xml"/>
+			
+
+			<outline htmlUrl="https://redteams.net/redteaming/" text="Red Teaming - Red Teams" ttrssPurgeInterval="0" ttrssSortOrder="57" ttrssUpdateInterval="0" type="rss" xmlUrl="https://redteams.net/redteaming?format=RSS"/>
+			
+
+			<outline htmlUrl="https://isc.sans.edu" text="SANS Internet Storm Center, InfoCON: green" ttrssPurgeInterval="0" ttrssSortOrder="58" ttrssUpdateInterval="0" type="rss" xmlUrl="https://isc.sans.edu/rssfeed.xml"/>
+			
+
+			<outline htmlUrl="https://www.schneier.com" text="Schneier on Security" ttrssPurgeInterval="0" ttrssSortOrder="59" ttrssUpdateInterval="0" type="rss" xmlUrl="http://www.schneier.com/blog/index.rdf"/>
+			
+
+			<outline htmlUrl="https://raffy.ch/blog" text="Cyber Security – Strategy and Innovation" ttrssPurgeInterval="0" ttrssSortOrder="60" ttrssUpdateInterval="0" type="rss" xmlUrl="http://feeds.feedburner.com/RaffysComputerSecurityBlog"/>
+			
+
+			<outline htmlUrl="http://securityandrisk.blogspot.com/" text="Security and risk" ttrssPurgeInterval="0" ttrssSortOrder="63" ttrssUpdateInterval="0" type="rss" xmlUrl="http://feeds.feedburner.com/SecurityAndRisk"/>
+			
+
+			<outline htmlUrl="http://edge-security.blogspot.com/" text="Security on the edge" ttrssPurgeInterval="0" ttrssSortOrder="64" ttrssUpdateInterval="0" type="rss" xmlUrl="http://feeds.feedburner.com/SecurityOnTheEdge"/>
+			
+
+			<outline htmlUrl="https://blog.skullsecurity.org" text="SkullSecurity" ttrssPurgeInterval="0" ttrssSortOrder="66" ttrssUpdateInterval="0" type="rss" xmlUrl="https://blog.skullsecurity.org/feed"/>
+			
+
+			<outline htmlUrl="https://medium.com/@sroberts?source=rss-62a130e55951------2" text="Stories by Scott J Roberts on Medium" ttrssPurgeInterval="0" ttrssSortOrder="67" ttrssUpdateInterval="0" type="rss" xmlUrl="https://medium.com/feed/@sroberts"/>
+			
+
+			<outline htmlUrl="http://www.subliminalhacking.net" text="Subliminal Hacking" ttrssPurgeInterval="0" ttrssSortOrder="68" ttrssUpdateInterval="0" type="rss" xmlUrl="http://www.subliminalhacking.net/feed/"/>
+			
+
+			<outline htmlUrl="https://taosecurity.blogspot.com/" text="TaoSecurity Blog" ttrssPurgeInterval="0" ttrssSortOrder="69" ttrssUpdateInterval="0" type="rss" xmlUrl="https://taosecurity.blogspot.com/feeds/posts/default?alt=rss"/>
+			
+
+			<outline htmlUrl="https://team-cymru.com" text="Team-Cymru" ttrssPurgeInterval="0" ttrssSortOrder="70" ttrssUpdateInterval="-1" type="rss" xmlUrl="https://www.team-cymru.com/blog-feed.xml"/>
+			
+
+			<outline htmlUrl="https://techvomit.net/" text="Tech Vomit" ttrssPurgeInterval="0" ttrssSortOrder="71" ttrssUpdateInterval="-1" type="rss" xmlUrl="https://techvomit.net/index.xml"/>
+			
+
+			<outline htmlUrl="https://blog.exploitlab.net/" text="The Exploit Laboratory" ttrssPurgeInterval="0" ttrssSortOrder="72" ttrssUpdateInterval="0" type="rss" xmlUrl="http://blog.exploitlab.net/feeds/posts/default"/>
+			
+
+			<outline htmlUrl="https://grymoire.wordpress.com" text="The Grymoire" ttrssPurgeInterval="0" ttrssSortOrder="73" ttrssUpdateInterval="0" type="rss" xmlUrl="https://grymoire.wordpress.com/feed/"/>
+			
+
+			<outline htmlUrl="https://sakurity.com/blog/" text="The Sakurity Blog" ttrssPurgeInterval="0" ttrssSortOrder="74" ttrssUpdateInterval="0" type="rss" xmlUrl="http://sakurity.com/blog/feed.xml"/>
+			
+
+			<outline htmlUrl="http://www.ehacking.net/" text="The World of IT &amp; Cyber Security: ehacking.net" ttrssPurgeInterval="0" ttrssSortOrder="75" ttrssUpdateInterval="0" type="rss" xmlUrl="http://feeds.feedburner.com/ehacking"/>
+			
+
+			<outline htmlUrl="http://thegreycorner.com/" text="TheGeryCorner" ttrssPurgeInterval="0" ttrssSortOrder="76" ttrssUpdateInterval="0" type="rss" xmlUrl="http://thegreycorner.com/feed.xml"/>
+			
+
+			<outline htmlUrl="https://www.scriptjunkie.us" text="Thoughts on Security" ttrssPurgeInterval="0" ttrssSortOrder="77" ttrssUpdateInterval="0" type="rss" xmlUrl="http://www.scriptjunkie.us/feed/"/>
+			
+
+			<outline htmlUrl="http://travisaltman.com" text="Travis Altman" ttrssPurgeInterval="0" ttrssSortOrder="78" ttrssUpdateInterval="0" type="rss" xmlUrl="http://feeds.feedburner.com/travisaltman"/>
+			
+
+			<outline htmlUrl="https://www.troyhunt.com/" text="Troy Hunt's Blog" ttrssPurgeInterval="0" ttrssSortOrder="79" ttrssUpdateInterval="0" type="rss" xmlUrl="http://feeds.feedburner.com/TroyHunt"/>
+			
+
+			<outline htmlUrl="http://blog.uncommonsensesecurity.com/" text="Uncommon Sense Security" ttrssPurgeInterval="0" ttrssSortOrder="80" ttrssUpdateInterval="0" type="rss" xmlUrl="http://blog.uncommonsensesecurity.com/feeds/posts/default"/>
+			
+
+			<outline htmlUrl="https://volatility-labs.blogspot.com/" text="Volatility Labs" ttrssPurgeInterval="0" ttrssSortOrder="81" ttrssUpdateInterval="0" type="rss" xmlUrl="http://volatility-labs.blogspot.com/feeds/posts/default"/>
+			
+
+			<outline htmlUrl="http://blog.whitescope.io/" text="WhiteScope IO" ttrssPurgeInterval="0" ttrssSortOrder="82" ttrssUpdateInterval="0" type="rss" xmlUrl="http://blog.whitescope.io/feeds/posts/default"/>
+			
+
+			<outline htmlUrl="https://blog.zsec.uk/" text="ZeroSec - Adventures In Information Security" ttrssPurgeInterval="0" ttrssSortOrder="83" ttrssUpdateInterval="0" type="rss" xmlUrl="https://blog.zsec.uk/rss/"/>
+			
+
+			<outline htmlUrl="http://anti-virus-rants.blogspot.com/" text="anti-virus rants" ttrssPurgeInterval="0" ttrssSortOrder="84" ttrssUpdateInterval="0" type="rss" xmlUrl="http://feeds.feedburner.com/Anti-virusRants"/>
+			
+
+			<outline htmlUrl="https://binaryforay.blogspot.com/" text="binary foray" ttrssPurgeInterval="0" ttrssSortOrder="85" ttrssUpdateInterval="0" type="rss" xmlUrl="http://binaryforay.blogspot.com/feeds/posts/default"/>
+			
+
+			<outline htmlUrl="https://damsky.tech" text="damsky" ttrssPurgeInterval="0" ttrssSortOrder="86" ttrssUpdateInterval="0" type="rss" xmlUrl="https://damsky.tech/feed/"/>
+			
+
+			<outline htmlUrl="https://sploitfun.wordpress.com" text="sploitF-U-N" ttrssPurgeInterval="0" ttrssSortOrder="90" ttrssUpdateInterval="0" type="rss" xmlUrl="https://sploitfun.wordpress.com/feed/"/>
+			
+
+			<outline htmlUrl="https://thepcn3rd.blogspot.com/" text="thepcn3rd - Passion for Infosec" ttrssPurgeInterval="0" ttrssSortOrder="91" ttrssUpdateInterval="0" type="rss" xmlUrl="http://thepcn3rd.blogspot.com/feeds/posts/default"/>
+			
+
+			<outline htmlUrl="https://w00tsec.blogspot.com/" text="w00tsec" ttrssPurgeInterval="0" ttrssSortOrder="93" ttrssUpdateInterval="0" type="rss" xmlUrl="http://w00tsec.blogspot.com/feeds/posts/default"/>
+			
+
+			<outline htmlUrl="https://xorl.wordpress.com" text="xorl %eax, %eax" ttrssPurgeInterval="0" ttrssSortOrder="94" ttrssUpdateInterval="0" type="rss" xmlUrl="http://xorl.wordpress.com/feed/"/>
+			
+
+		</outline>
+		
+
+		<outline text="Offensive Security" ttrssSortOrder="10">
+			
+
+			<outline htmlUrl="https://connormcgarr.github.io/" text="Home" ttrssPurgeInterval="0" ttrssSortOrder="0" ttrssUpdateInterval="0" type="rss" xmlUrl="https://connormcgarr.github.io/feed.xml"/>
+			
+
+			<outline htmlUrl="https://momo5502.com/posts/" text="Posts on Maurice's Blog 🐍" ttrssPurgeInterval="0" ttrssSortOrder="0" ttrssUpdateInterval="0" type="rss" xmlUrl="https://momo5502.com/posts/index.xml"/>
+			
+
+			<outline htmlUrl="http://www.shogunlab.com/" text="Shogun Lab | 将軍ラボ" ttrssPurgeInterval="0" ttrssSortOrder="0" ttrssUpdateInterval="0" type="rss" xmlUrl="https://www.shogunlab.com/feed.xml"/>
+			
+
+			<outline htmlUrl="https://h0mbre.github.io/" text="The Human Machine Interface" ttrssPurgeInterval="0" ttrssSortOrder="0" ttrssUpdateInterval="0" type="rss" xmlUrl="https://h0mbre.github.io/feed.xml"/>
+			
+
+			<outline htmlUrl="https://movaxbx.ru" text="MOV AX, BX" ttrssPurgeInterval="0" ttrssSortOrder="1" ttrssUpdateInterval="-1" type="rss" xmlUrl="https://movaxbx.ru/feed/"/>
+			
+
+			<outline htmlUrl="https://blog.nviso.eu" text="NVISO Labs" ttrssPurgeInterval="0" ttrssSortOrder="2" ttrssUpdateInterval="0" type="rss" xmlUrl="https://blog.nviso.eu/feed/"/>
+			
+
+			<outline htmlUrl="https://posts.specterops.io?source=rss----f05f8696e3cc---4" text="Posts By SpecterOps Team Members" ttrssPurgeInterval="0" ttrssSortOrder="3" ttrssUpdateInterval="0" type="rss" xmlUrl="https://posts.specterops.io/feed"/>
+			
+
+			<outline htmlUrl="https://www.darkoperator.com/" text="Shell is Only the Beginning" ttrssPurgeInterval="0" ttrssSortOrder="4" ttrssUpdateInterval="0" type="rss" xmlUrl="https://www.darkoperator.com/blog?format=RSS"/>
+			
+
+			<outline htmlUrl="https://securitylab.github.com/" text="GitHub Security Lab | Research" ttrssPurgeInterval="0" ttrssSortOrder="5" ttrssUpdateInterval="0" type="rss" xmlUrl="https://securitylab.github.com/research/feed.xml"/>
+			
+
+			<outline htmlUrl="https://www.tiraniddo.dev/" text="Tyranid's Lair" ttrssPurgeInterval="0" ttrssSortOrder="6" ttrssUpdateInterval="0" type="rss" xmlUrl="http://tyranidslair.blogspot.com/feeds/posts/default"/>
+			
+
+			<outline htmlUrl="https://www.corelan.be" text="Corelan Team" ttrssPurgeInterval="0" ttrssSortOrder="8" ttrssUpdateInterval="0" type="rss" xmlUrl="https://www.corelan.be/index.php/feed/"/>
+			
+
+			<outline htmlUrl="https://exploit.ph/" text="eXploit" ttrssPurgeInterval="0" ttrssSortOrder="8" ttrssUpdateInterval="0" type="rss" xmlUrl="https://exploit.ph/feeds/all.rss.xml"/>
+			
+
+			<outline htmlUrl="http://aptw.tf/" text="APT::WTF - APTortellini’s blog" ttrssPurgeInterval="0" ttrssSortOrder="9" ttrssUpdateInterval="0" type="rss" xmlUrl="https://aptw.tf/feed.xml"/>
+			
+
+			<outline htmlUrl="https://blog.includesecurity.com" text="Include Security Research Blog" ttrssPurgeInterval="0" ttrssSortOrder="10" ttrssUpdateInterval="0" type="rss" xmlUrl="https://blog.includesecurity.com/feed/"/>
+			
+
+			<outline htmlUrl="https://billdemirkapi.me/" text="Bill Demirkapi’s Blog" ttrssPurgeInterval="0" ttrssSortOrder="11" ttrssUpdateInterval="0" type="rss" xmlUrl="https://billdemirkapi.me/rss/"/>
+			
+
+			<outline htmlUrl="https://census-labs.com/news/" text="CENSUS" ttrssPurgeInterval="0" ttrssSortOrder="12" ttrssUpdateInterval="0" type="rss" xmlUrl="https://census-labs.com/news/feeds/rss/"/>
+			
+
+			<outline htmlUrl="https://blog.chichou.me/" text="CodeColorist" ttrssPurgeInterval="0" ttrssSortOrder="13" ttrssUpdateInterval="0" type="rss" xmlUrl="https://blog.chichou.me/atom.xml"/>
+			
+
+			<outline htmlUrl="https://www.mdsec.co.uk" text="MDSec" ttrssPurgeInterval="0" ttrssSortOrder="14" ttrssUpdateInterval="0" type="rss" xmlUrl="https://www.mdsec.co.uk/category/penetration-testing/feed/"/>
+			
+
+			<outline htmlUrl="https://www.malwaretech.com" text="MalwareTech" ttrssPurgeInterval="0" ttrssSortOrder="15" ttrssUpdateInterval="0" type="rss" xmlUrl="http://www.malwaretech.com/feed?alt=rss"/>
+			
+
+			<outline htmlUrl="https://justi.cz/" text="Max Justicz" ttrssPurgeInterval="0" ttrssSortOrder="16" ttrssUpdateInterval="0" type="rss" xmlUrl="https://justi.cz/feed.xml"/>
+			
+
+			<outline htmlUrl="https://microsoftedge.github.io" text="Microsoft Browser Vulnerability Research" ttrssPurgeInterval="0" ttrssSortOrder="17" ttrssUpdateInterval="0" type="rss" xmlUrl="https://microsoftedge.github.io/edgevr/feed.xml"/>
+			
+
+			<outline htmlUrl="https://www.mogozobo.com" text="Mogozobo" ttrssPurgeInterval="0" ttrssSortOrder="18" ttrssUpdateInterval="0" type="rss" xmlUrl="http://www.mogozobo.com/?feed=rss2"/>
+			
+
+			<outline htmlUrl="https://blog.nviso.eu" text="NVISO Labs" ttrssPurgeInterval="0" ttrssSortOrder="19" ttrssUpdateInterval="0" type="rss" xmlUrl="https://blog.nviso.be/feed/?alt=rss"/>
+			
+
+			<outline htmlUrl="https://niemand.com.ar" text="Niemand – Cyber Security" ttrssPurgeInterval="0" ttrssSortOrder="20" ttrssUpdateInterval="0" type="rss" xmlUrl="https://niemand.com.ar/feed/"/>
+			
+
+			<outline htmlUrl="http://blog.orange.tw/" text="Orange Tsai" ttrssPurgeInterval="0" ttrssSortOrder="21" ttrssUpdateInterval="0" type="rss" xmlUrl="http://feeds.feedburner.com/blogspot/Aohx"/>
+			
+
+			<outline htmlUrl="https://googleprojectzero.blogspot.com/" text="Project Zero" ttrssPurgeInterval="0" ttrssSortOrder="22" ttrssUpdateInterval="0" type="rss" xmlUrl="http://googleprojectzero.blogspot.com/feeds/posts/default"/>
+			
+
+			<outline htmlUrl="https://randywestergren.com" text="Randy Westergren" ttrssPurgeInterval="0" ttrssSortOrder="23" ttrssUpdateInterval="0" type="rss" xmlUrl="http://randywestergren.com/feed/"/>
+			
+
+			<outline htmlUrl="https://rhinosecuritylabs.com" text="Rhino Security Labs" ttrssPurgeInterval="0" ttrssSortOrder="24" ttrssUpdateInterval="0" type="rss" xmlUrl="https://rhinosecuritylabs.com/blog/feed/"/>
+			
+
+			<outline htmlUrl="https://seclists.org/fulldisclosure/" text="SecLists - Full Disclosure" ttrssPurgeInterval="0" ttrssSortOrder="25" ttrssUpdateInterval="0" type="rss" xmlUrl="https://seclists.org/rss/fulldisclosure.rss"/>
+			
+
+			<outline htmlUrl="https://sector7.computest.nl/" text="Sector 7" ttrssPurgeInterval="0" ttrssSortOrder="26" ttrssUpdateInterval="0" type="rss" xmlUrl="https://sector7.computest.nl/index.xml"/>
+			
+
+			<outline htmlUrl="https://www.securitysift.com" text="Security Sift" ttrssPurgeInterval="0" ttrssSortOrder="27" ttrssUpdateInterval="0" type="rss" xmlUrl="http://www.securitysift.com/feed/"/>
+			
+
+			<outline htmlUrl="https://sensepost.com/rss.xml" text="Sensepost" ttrssPurgeInterval="0" ttrssSortOrder="28" ttrssUpdateInterval="0" type="rss" xmlUrl="https://sensepost.com/rss.xml"/>
+			
+
+			<outline htmlUrl="https://serhack.me/" text="SerHack – Security research on SerHack – Security researcher" ttrssPurgeInterval="0" ttrssSortOrder="29" ttrssUpdateInterval="0" type="rss" xmlUrl="https://serhack.me/index.xml"/>
+			
+
+			<outline htmlUrl="https://srcincite.io/" text="Source Incite" ttrssPurgeInterval="0" ttrssSortOrder="30" ttrssUpdateInterval="0" type="rss" xmlUrl="https://srcincite.io/feed.xml"/>
+			
+
+			<outline htmlUrl="https://labs.taszk.io/" text="Taszk Labs on taszk.io labs" ttrssPurgeInterval="0" ttrssSortOrder="31" ttrssUpdateInterval="0" type="rss" xmlUrl="https://labs.taszk.io/index.xml"/>
+			
+
+			<outline htmlUrl="https://thehackerblog.com" text="TheHackerBlog" ttrssPurgeInterval="0" ttrssSortOrder="32" ttrssUpdateInterval="0" type="rss" xmlUrl="https://thehackerblog.com/feed.xml"/>
+			
+
+			<outline htmlUrl="https://voidsec.com" text="VoidSec" ttrssPurgeInterval="0" ttrssSortOrder="33" ttrssUpdateInterval="-1" type="rss" xmlUrl="https://voidsec.com/feed/"/>
+			
+
+			<outline htmlUrl="https://enigma0x3.net" text="enigma0x3" ttrssPurgeInterval="0" ttrssSortOrder="34" ttrssUpdateInterval="0" type="rss" xmlUrl="http://enigma0x3.wordpress.com/feed/"/>
+			
+
+			<outline htmlUrl="https://www.evilsocket.net/" text="evilsocket" ttrssPurgeInterval="0" ttrssSortOrder="35" ttrssUpdateInterval="0" type="rss" xmlUrl="https://www.evilsocket.net/atom.xml"/>
+			
+
+			<outline htmlUrl="https://ricardojba.github.io/" text="vibrio’s personal infosec blog" ttrssPurgeInterval="0" ttrssSortOrder="37" ttrssUpdateInterval="0" type="rss" xmlUrl="https://ricardojba.github.io/feed.xml"/>
+			
+
+			<outline htmlUrl="https://bohops.com" text="| bohops |" ttrssPurgeInterval="0" ttrssSortOrder="38" ttrssUpdateInterval="0" type="rss" xmlUrl="https://bohops.com/feed/"/>
+			
+
+		</outline>
+		
+
+		<outline text="Pentest" ttrssSortOrder="11">
+			
+
+			<outline htmlUrl="https://www.bordergate.co.uk/" text="BorderGate" ttrssPurgeInterval="0" ttrssSortOrder="0" ttrssUpdateInterval="0" type="rss" xmlUrl="https://www.bordergate.co.uk/feed/"/>
+			
+
+			<outline htmlUrl="https://adsecurity.org" text="Active Directory Security" ttrssPurgeInterval="0" ttrssSortOrder="1" ttrssUpdateInterval="0" type="rss" xmlUrl="http://adsecurity.org/?feed=rss2"/>
+			
+
+			<outline htmlUrl="https://adepts.of0x.cc/" text="Adepts of 0xCC" ttrssPurgeInterval="0" ttrssSortOrder="2" ttrssUpdateInterval="0" type="rss" xmlUrl="https://adepts.of0x.cc/feed.xml"/>
+			
+
+			<outline htmlUrl="https://blog.appsecco.com?source=rss----e2adb3957733---4" text="Appsecco" ttrssPurgeInterval="0" ttrssSortOrder="3" ttrssUpdateInterval="0" type="rss" xmlUrl="https://blog.appsecco.com/feed"/>
+			
+
+			<outline htmlUrl="http://blog.andlabs.org/" text="Attack and Defense Labs" ttrssPurgeInterval="0" ttrssSortOrder="4" ttrssUpdateInterval="0" type="rss" xmlUrl="http://blog.andlabs.org/feeds/posts/default?alt=rss"/>
+			
+
+			<outline htmlUrl="https://boschko.ca/" text="Boschko Security Blog" ttrssPurgeInterval="0" ttrssSortOrder="5" ttrssUpdateInterval="0" type="rss" xmlUrl="https://boschko.ca/rss/"/>
+			
+
+			<outline htmlUrl="http://carnal0wnage.attackresearch.com/" text="Carnal0wnage &amp; Attack Research Blog" ttrssPurgeInterval="0" ttrssSortOrder="6" ttrssUpdateInterval="0" type="rss" xmlUrl="http://carnal0wnage.attackresearch.com/feeds/posts/default"/>
+			
+
+			<outline htmlUrl="https://rastamouse.me/" text="Rasta Mouse" ttrssPurgeInterval="0" ttrssSortOrder="7" ttrssUpdateInterval="0" type="rss" xmlUrl="https://rastamouse.me/feed"/>
+			
+
+			<outline htmlUrl="https://www.darknet.org.uk" text="Darknet" ttrssPurgeInterval="0" ttrssSortOrder="10" ttrssUpdateInterval="0" type="rss" xmlUrl="http://feeds.feedburner.com/darknethackers"/>
+			
+
+			<outline htmlUrl="https://foxglovesecurity.com" text="FoxGlove Security" ttrssPurgeInterval="0" ttrssSortOrder="11" ttrssUpdateInterval="0" type="rss" xmlUrl="http://foxglovesecurity.com/feed/"/>
+			
+
+			<outline htmlUrl="https://www.hackingarticles.in" text="Hacking Articles" ttrssPurgeInterval="0" ttrssSortOrder="13" ttrssUpdateInterval="0" type="rss" xmlUrl="http://www.hackingarticles.in/feed/"/>
+			
+
+			<outline htmlUrl="https://highon.coffee/" text="HighOn.Coffee" ttrssPurgeInterval="0" ttrssSortOrder="14" ttrssUpdateInterval="0" type="rss" xmlUrl="https://highon.coffee/feed.xml"/>
+			
+
+			<outline htmlUrl="https://jhalon.github.io/" text="Jack Hacks" ttrssPurgeInterval="0" ttrssSortOrder="15" ttrssUpdateInterval="0" type="rss" xmlUrl="https://jhalon.github.io/feed.xml"/>
+			
+
+			<outline htmlUrl="http://www.labofapenetrationtester.com/" text="Lab of a Penetration Tester" ttrssPurgeInterval="0" ttrssSortOrder="16" ttrssUpdateInterval="0" type="rss" xmlUrl="http://www.labofapenetrationtester.com/feeds/posts/default"/>
+			
+
+			<outline htmlUrl="https://milo2012.wordpress.com" text="Milo2012's Security Blog" ttrssPurgeInterval="0" ttrssSortOrder="17" ttrssUpdateInterval="0" type="rss" xmlUrl="http://milo2012.wordpress.com/feed/"/>
+			
+
+			<outline htmlUrl="https://natmchugh.blogspot.com/" text="Nat McHugh" ttrssPurgeInterval="0" ttrssSortOrder="18" ttrssUpdateInterval="0" type="rss" xmlUrl="https://natmchugh.blogspot.com/feeds/posts/default?alt=rss"/>
+			
+
+			<outline htmlUrl="https://oddvar.moe" text="Oddvar Moe's Blog" ttrssPurgeInterval="0" ttrssSortOrder="19" ttrssUpdateInterval="0" type="rss" xmlUrl="https://oddvar.moe/feed/"/>
+			
+
+			<outline htmlUrl="https://www.shawarkhan.com/" text="Shawar Khan" ttrssPurgeInterval="0" ttrssSortOrder="21" ttrssUpdateInterval="0" type="rss" xmlUrl="https://www.shawarkhan.com/feeds/posts/default"/>
+			
+
+			<outline htmlUrl="https://www.shelliscoming.com/" text="Shell is coming ..." ttrssPurgeInterval="0" ttrssSortOrder="22" ttrssUpdateInterval="0" type="rss" xmlUrl="http://www.shelliscoming.com/feeds/posts/default?alt=rss"/>
+			
+
+			<outline htmlUrl="https://blog.silentsignal.eu" text="Silent Signal Techblog" ttrssPurgeInterval="0" ttrssSortOrder="24" ttrssUpdateInterval="0" type="rss" xmlUrl="http://blog.silentsignal.eu/feed/"/>
+			
+
+			<outline htmlUrl="https://steflan-security.com" text="StefLan's Security Blog" ttrssPurgeInterval="0" ttrssSortOrder="26" ttrssUpdateInterval="0" type="rss" xmlUrl="https://steflan-security.com/feed/"/>
+			
+
+			<outline htmlUrl="https://medium.com/@themiddleblue?source=rss-638c6a6ed4ad------2" text="Stories by theMiddle on Medium" ttrssPurgeInterval="0" ttrssSortOrder="27" ttrssUpdateInterval="0" type="rss" xmlUrl="https://medium.com/feed/@themiddleblue"/>
+			
+
+			<outline htmlUrl="https://wiremask.eu" text="Wiremask's Feed" ttrssPurgeInterval="0" ttrssSortOrder="29" ttrssUpdateInterval="0" type="rss" xmlUrl="https://wiremask.eu/atom.xml"/>
+			
+
+			<outline htmlUrl="https://ysamm.com" text="Youssef Sammouda" ttrssPurgeInterval="0" ttrssSortOrder="30" ttrssUpdateInterval="0" type="rss" xmlUrl="https://ysamm.com/?feed=rss2"/>
+			
+
+			<outline htmlUrl="https://www.blackmoreops.com" text="blackMORE Ops" ttrssPurgeInterval="0" ttrssSortOrder="31" ttrssUpdateInterval="0" type="rss" xmlUrl="http://www.blackmoreops.com/feed/"/>
+			
+
+			<outline htmlUrl="https://br3akp0int.blogspot.com/" text="br3akp0int" ttrssPurgeInterval="0" ttrssSortOrder="32" ttrssUpdateInterval="0" type="rss" xmlUrl="https://br3akp0int.blogspot.com/feeds/posts/default?alt=rss"/>
+			
+
+			<outline htmlUrl="https://naehrdine.blogspot.com/" text="cat /dev/brain" ttrssPurgeInterval="0" ttrssSortOrder="33" ttrssUpdateInterval="0" type="rss" xmlUrl="https://naehrdine.blogspot.com/feeds/posts/default?alt=rss"/>
+			
+
+			<outline htmlUrl="https://dotcppfile.wordpress.com" text="dotcppfile's Blog" ttrssPurgeInterval="0" ttrssSortOrder="34" ttrssUpdateInterval="0" type="rss" xmlUrl="https://dotcppfile.wordpress.com/feed/"/>
+			
+
+			<outline htmlUrl="https://markitzeroday.com/" text="markitzeroday.com" ttrssPurgeInterval="0" ttrssSortOrder="35" ttrssUpdateInterval="0" type="rss" xmlUrl="https://markitzeroday.com/feed.xml"/>
+			
+
+			<outline htmlUrl="https://www.phillips321.co.uk" text="phillips321.co.uk" ttrssPurgeInterval="0" ttrssSortOrder="36" ttrssUpdateInterval="0" type="rss" xmlUrl="http://www.phillips321.co.uk/feed/"/>
+			
+
+			<outline htmlUrl="https://osandamalith.com" text="🔐Blog of Osanda" ttrssPurgeInterval="0" ttrssSortOrder="38" ttrssUpdateInterval="0" type="rss" xmlUrl="https://osandamalith.com/feed/"/>
+			
+
+		</outline>
+		
+
+		<outline text="Privacy" ttrssSortOrder="12">
+			
+
+			<outline htmlUrl="https://www.eff.org/rss/updates.xml" text="EFF" ttrssPurgeInterval="0" ttrssSortOrder="1" ttrssUpdateInterval="0" type="rss" xmlUrl="https://www.eff.org/rss/updates.xml"/>
+			
+
+			<outline htmlUrl="https://blog.torproject.org/" text="Updates from the Tor Project" ttrssPurgeInterval="0" ttrssSortOrder="2" ttrssUpdateInterval="0" type="rss" xmlUrl="https://blog.torproject.org/blog/feed"/>
+			
+
+		</outline>
+		
+
+		<outline text="Security News" ttrssSortOrder="14">
+			
+
+			<outline htmlUrl="https://grahamcluley.com" text="Graham Cluley" ttrssPurgeInterval="0" ttrssSortOrder="2" ttrssUpdateInterval="0" type="rss" xmlUrl="http://feeds.feedburner.com/GrahamCluleysBlog"/>
+			
+
+			<outline htmlUrl="https://krebsonsecurity.com" text="Krebs on Security" ttrssPurgeInterval="0" ttrssSortOrder="4" ttrssUpdateInterval="0" type="rss" xmlUrl="http://krebsonsecurity.com/feed/"/>
+			
+
+			<outline htmlUrl="https://securityaffairs.co/wordpress" text="Security Affairs" ttrssPurgeInterval="0" ttrssSortOrder="6" ttrssUpdateInterval="0" type="rss" xmlUrl="http://securityaffairs.co/wordpress/feed"/>
+			
+
+			<outline htmlUrl="https://thehackernews.com/" text="The Hacker News" ttrssPurgeInterval="0" ttrssSortOrder="7" ttrssUpdateInterval="0" type="rss" xmlUrl="http://feeds.feedburner.com/TheHackersNews"/>
+			
+
+		</outline>
+		
+
+		<outline text="Security Tools" ttrssSortOrder="15">
+			
+
+			<outline htmlUrl="https://www.darknet.org.uk" text="Darknet" ttrssPurgeInterval="0" ttrssSortOrder="1" ttrssUpdateInterval="0" type="rss" xmlUrl="https://www.darknet.org.uk/feed/"/>
+			
+
+			<outline htmlUrl="http://www.kitploit.com/" text="KitPloit - PenTest Tools!" ttrssPurgeInterval="0" ttrssSortOrder="2" ttrssUpdateInterval="0" type="rss" xmlUrl="http://feeds.feedburner.com/PentestTools"/>
+			
+
+		</outline>
+		
+
+		<outline text="Web Security" ttrssSortOrder="16">
+			
+
+			<outline htmlUrl="https://vickieli.dev/" text="Vickie Li’s Security Blog" ttrssPurgeInterval="0" ttrssSortOrder="0" ttrssUpdateInterval="0" type="rss" xmlUrl="https://vickieli.dev/feed.xml"/>
+			
+
+			<outline htmlUrl="https://buer.haus" text="Brett Buerhaus" ttrssPurgeInterval="0" ttrssSortOrder="2" ttrssUpdateInterval="0" type="rss" xmlUrl="https://buer.haus/feed/"/>
+			
+
+			<outline htmlUrl="https://bugbountypoc.com" text="Bug Bounty POC" ttrssPurgeInterval="0" ttrssSortOrder="3" ttrssUpdateInterval="0" type="rss" xmlUrl="http://bugbountypoc.com/feed/"/>
+			
+
+			<outline htmlUrl="https://blog.mindedsecurity.com/" text="Minded Security Blog" ttrssPurgeInterval="0" ttrssSortOrder="4" ttrssUpdateInterval="0" type="rss" xmlUrl="http://blog.mindedsecurity.com/feeds/posts/default"/>
+			
+
+			<outline htmlUrl="http://blog.nibblesec.org/" text="Nibble Security" ttrssPurgeInterval="0" ttrssSortOrder="5" ttrssUpdateInterval="0" type="rss" xmlUrl="http://blog.nibblesec.org/feeds/posts/default"/>
+			
+
+			<outline htmlUrl="http://c0d3g33k.blogspot.com/" text="Nikhil Mittal's Blog" ttrssPurgeInterval="0" ttrssSortOrder="6" ttrssUpdateInterval="0" type="rss" xmlUrl="http://c0d3g33k.blogspot.com/feeds/posts/default"/>
+			
+
+			<outline htmlUrl="https://www.noob.ninja/" text="Noob Ninja!" ttrssPurgeInterval="0" ttrssSortOrder="7" ttrssUpdateInterval="0" type="rss" xmlUrl="http://www.noob.ninja/feeds/posts/default?alt=rss"/>
+			
+
+			<outline htmlUrl="https://offensi.com" text="Offensi" ttrssPurgeInterval="0" ttrssSortOrder="8" ttrssUpdateInterval="0" type="rss" xmlUrl="https://offensi.com/feed/"/>
+			
+
+			<outline htmlUrl="https://opnsec.com" text="OpnSec" ttrssPurgeInterval="0" ttrssSortOrder="9" ttrssUpdateInterval="-1" type="rss" xmlUrl="https://opnsec.com/feed/"/>
+			
+
+			<outline htmlUrl="https://blog.it-securityguard.com" text="Patrik Fehrenbach" ttrssPurgeInterval="0" ttrssSortOrder="10" ttrssUpdateInterval="0" type="rss" xmlUrl="http://blog.it-securityguard.com/feed/"/>
+			
+
+			<outline htmlUrl="https://portswigger.net/blog" text="PortSwigger Blog" ttrssPurgeInterval="0" ttrssSortOrder="11" ttrssUpdateInterval="0" type="rss" xmlUrl="https://portswigger.net/blog/rss"/>
+			
+
+			<outline htmlUrl="https://blog.yappare.com/" text="Random stuff by yappare" ttrssPurgeInterval="0" ttrssSortOrder="12" ttrssUpdateInterval="0" type="rss" xmlUrl="https://c0rni3sm.blogspot.com/feeds/posts/default"/>
+			
+
+			<outline htmlUrl="https://blog.securitybreached.org" text="Security Breached Blog" ttrssPurgeInterval="0" ttrssSortOrder="13" ttrssUpdateInterval="0" type="rss" xmlUrl="https://blog.securitybreached.org/feed/"/>
+			
+
+			<outline htmlUrl="http://www.wisec.it/sectou.php" text="Security Thoughts" ttrssPurgeInterval="0" ttrssSortOrder="14" ttrssUpdateInterval="0" type="rss" xmlUrl="http://www.wisec.it/sectou.php?rss"/>
+			
+
+			<outline htmlUrl="https://telekomsecurity.github.io/" text="Telekom Security" ttrssPurgeInterval="0" ttrssSortOrder="15" ttrssUpdateInterval="0" type="rss" xmlUrl="https://telekomsecurity.github.io/atom.xml"/>
+			
+
+			<outline htmlUrl="https://whwriteups.blogspot.com/" text="WHITE HAT - WRITE UPS - RSS" ttrssPurgeInterval="0" ttrssSortOrder="16" ttrssUpdateInterval="0" type="rss" xmlUrl="https://whwriteups.blogspot.com/feeds/posts/default?alt=rss"/>
+			
+
+			<outline htmlUrl="http://blog.kotowicz.net/" text="the world. according to koto" ttrssPurgeInterval="0" ttrssSortOrder="18" ttrssUpdateInterval="0" type="rss" xmlUrl="http://blog.kotowicz.net/feeds/posts/default"/>
+			
+
+			<outline htmlUrl="https://blog.tint0.com/" text="tint0" ttrssPurgeInterval="0" ttrssSortOrder="19" ttrssUpdateInterval="0" type="rss" xmlUrl="https://blog.tint0.com/feeds/posts/default?alt=rss"/>
+			
+
+		</outline>
+		
+
+		<outline text="reddit" ttrssSortOrder="17">
+			
+
+			<outline htmlUrl="https://www.reddit.com/r/blackhat/" text="Blackhat Library" ttrssPurgeInterval="0" ttrssSortOrder="1" ttrssUpdateInterval="0" type="rss" xmlUrl="http://www.reddit.com/r/blackhat/.rss"/>
+			
+
+			<outline htmlUrl="https://www.reddit.com/r/computerforensics/" text="Computer Forensics" ttrssPurgeInterval="0" ttrssSortOrder="2" ttrssUpdateInterval="0" type="rss" xmlUrl="http://www.reddit.com/r/computerforensics/.rss"/>
+			
+
+			<outline htmlUrl="https://www.reddit.com/r/deepweb/" text="Deep Web" ttrssPurgeInterval="0" ttrssSortOrder="3" ttrssUpdateInterval="0" type="rss" xmlUrl="http://www.reddit.com/r/deepweb/.rss"/>
+			
+
+			<outline htmlUrl="https://www.reddit.com/r/HowToHack/" text="HowToHack" ttrssPurgeInterval="0" ttrssSortOrder="4" ttrssUpdateInterval="0" type="rss" xmlUrl="http://www.reddit.com/r/HowToHack/.rss"/>
+			
+
+			<outline htmlUrl="https://www.reddit.com/r/Information_Security/" text="Information Security" ttrssPurgeInterval="0" ttrssSortOrder="5" ttrssUpdateInterval="0" type="rss" xmlUrl="http://www.reddit.com/r/Information_Security/.rss"/>
+			
+
+			<outline htmlUrl="https://www.reddit.com/r/netsec/" text="Netsec" ttrssPurgeInterval="0" ttrssSortOrder="6" ttrssUpdateInterval="0" type="rss" xmlUrl="http://www.reddit.com/r/netsec/.rss"/>
+			
+
+			<outline htmlUrl="https://www.reddit.com/r/ReverseEngineering/" text="Reverse Engineering" ttrssPurgeInterval="0" ttrssSortOrder="8" ttrssUpdateInterval="0" type="rss" xmlUrl="http://www.reddit.com/r/ReverseEngineering/.rss"/>
+			
+
+			<outline htmlUrl="https://www.reddit.com/r/SocialEngineering/" text="Social Engineering" ttrssPurgeInterval="0" ttrssSortOrder="9" ttrssUpdateInterval="0" type="rss" xmlUrl="http://www.reddit.com/r/SocialEngineering/.rss"/>
+			
+
+		</outline>
+		
+	</body>
+	
+
+</opml>
